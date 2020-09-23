@@ -1,4 +1,4 @@
-streamlit==0.61.0
-pandas==0.25.3
-numpy==1.18.1
-scikit-learn==0.22.1
+streamlit==0.67.1     # it wasnt found 0.61.0       # not found?
+pandas==1.0.5    # it was 0.25.3
+numpy== 1.18.5  # it was    1.18.1
+scikit-learn==0.23.1  # it was 0.22.1
